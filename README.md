@@ -37,7 +37,7 @@ Alongside my professional work, I actively build robust implementations of core 
     *   *Tech:* Go, PostgreSQL, Redis
     *   *Highlights:* Base62 encoding, fixed-window rate limiting middleware, efficient caching for 10ms P99 redirects.
 *   [**RAG Search Service**](https://github.com/asim-sde/rag-search-service)
-    *   *Tech:* Java, Spring Boot, PostgreSQL, pgvector, Redis
+    *   *Tech:* Go, go-chi, PostgreSQL, pgvector, Redis
     *   *Highlights:* Document embedding similarity search utilizing `pgvector` HNSW indexes and `<->` operations.
 
 📫 **Reach out to me:** [asim.khan.sde@gmail.com](mailto:asim.khan.sde@gmail.com) | [LinkedIn](https://www.linkedin.com/in/asim-sde/)
